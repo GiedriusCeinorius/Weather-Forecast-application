@@ -1,0 +1,95 @@
+[
+  {
+    "id": 593116,
+    "name": "Vilnius",
+    "country": "LT",
+    "population": 542366,
+    "coord": {
+      "lon": 25.2798,
+      "lat": 54.689159
+    }
+  },
+  {
+    "id": 598316,
+    "name": "Kaunas",
+    "country": "LT",
+    "population": 374643,
+    "coord": {
+      "lon": 23.9,
+      "lat": 54.900002
+    }
+  },
+  {
+    "id": 598098,
+    "name": "Klaipeda",
+    "country": "LT",
+	"population": 151227,
+    "coord": {
+      "lon": 21.1175,
+      "lat": 55.71722
+    }
+  },
+  {
+    "id": 460413,
+    "name": "Daugavpils",
+    "country": "LV",
+	"population": 92776,
+    "coord": {
+      "lon": 26.533331,
+      "lat": 55.883331
+    }
+  },
+  {
+	"id": 456172,
+    "name": "Riga",
+    "country": "LV",
+	"population": 701064,
+    "coord": {
+      "lon": 24.1,
+      "lat": 56.950001
+    }
+  },
+  {
+  "id": 454310,
+    "name": "Ventspils",
+    "country": "LV",
+	"population": 38562,
+    "coord": {
+      "lon": 21.56056,
+      "lat": 57.389439
+    }
+  },
+  {
+  "id": 588409,
+    "name": "Tallinn",
+    "country": "EE",
+	"population": 430805,
+    "coord": {
+      "lon": 24.753531,
+      "lat": 59.436958
+    }
+  },
+  {
+  "id": 588335,
+    "name": "Tartu",
+    "country": "EE",
+	"population": 93715,
+    "coord": {
+      "lon": 26.72509,
+      "lat": 58.380619
+    }
+  },
+  {
+    "id": 590031,
+    "name": "Narva",
+    "country": "EE",
+	"population": 56103,
+    "coord": {
+      "lon": 28.190281,
+      "lat": 59.37722
+    }
+  }
+]
+
+
+
